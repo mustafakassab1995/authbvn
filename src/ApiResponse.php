@@ -1,5 +1,5 @@
 <?php
-namespace Flutterwave;
+namespace mustafakassab1995;
 
 class ApiResponse {
   private $isSuccessfulResponse = false;

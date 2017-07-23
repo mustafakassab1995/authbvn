@@ -1,5 +1,5 @@
 <?php
-namespace Flutterwave;
+namespace mustafakassab1995;
 
 use PHP_Crypt\PHP_Crypt;
 

@@ -1,5 +1,5 @@
 <?php
-namespace Flutterwave;
+namespace mustafakassab1995;
 
 /**
 * A base class for setting commonly needed values for
