@@ -11,14 +11,14 @@ https://authbvn.herokuapp.com/
 
 ### Installation
 
-Add flutterwave to your `composer.json` file
+Add authbvn to your `composer.json` file
 ```
 "require": {
   "mustafakassab1995/authbvn": "dev-master"
 }
 ```
 
-Then do to update your packages with flutterwave-php
+Then do to update your packages with authbvn
 ```
 composer update
 ```
